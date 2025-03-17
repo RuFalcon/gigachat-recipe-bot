@@ -20,7 +20,7 @@ Telegram бот, который помогает пользователям со
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/your-username/gigachat-recipe-bot.git
+git clone https://github.com/RuFalcon/gigachat-recipe-bot
 cd gigachat-recipe-bot
 ```
 
